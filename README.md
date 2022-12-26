@@ -1,4 +1,6 @@
-<p align="center"><a href="http://virius.eu.org" target="_blank"><img src="https://i.ibb.co/gt8XvvN/logo-viriustrade.png" width="200" height="180" alt="Virius Logo"></a></p>
+<p align="center"><a href="http://virius.eu.org" target="_blank"><img src="https://i.ibb.co/gt8XvvN/logo-viriustrade.png" width="200" height="180" alt="Virius Logo">
+<img src="https://icon-library.com/images/rest-icon/rest-icon-25.jpg" with="200" height="180" alt="rest-api">   
+ </a></p>
 
 <p align="center">
 <a href="https://github.com/qiraxyz/viriustrade/blob/main/README.md"><img src="https://img.shields.io/badge/status-progress-brightgreen" alt="Progress"></a>
