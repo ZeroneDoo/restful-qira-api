@@ -5,7 +5,7 @@
  </a></p>
 
 <p align="center">
-<a href="https://github.com/qiraxyz"><img src="https://img.shields.io/badge/qiraxyz-leader-brightgreen"></a>
+<a href="https://github.com/qiraxyz"><img src="https://img.shields.io/badge/made--by-qiraxyz-yellow"></a>
 <a href="https://github.com/qiraxyz/qira-api/blob/main/README.md"><img src="https://img.shields.io/badge/status-progress-brightgreen" alt="Progress"></a>
 <a href="https://github.com/qiraxyz/qira-api/releases"><img src="https://img.shields.io/badge/version-1.0.1-blue" alt="Latest Stable Version"></a>
 <a href="https://github.com/qiraxyz/qira-api/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License"></a>
@@ -23,15 +23,6 @@ qira-api is consumable restful api for multi-function bot. Transfer Data to :
 
 - **FTP file**
 
-
-
-
-### Develop && Contribute By
-
-- **qiraxyz** : <br>
-<a href="https://github.com/qiraxyz"><img src="https://img.shields.io/badge/qiraxyz-leader-brightgreen"></a>
-<a href="https://github.com/qiraxyz"><img src="https://img.shields.io/badge/status-front--end-red"></a>
-<a href="https://github.com/qiraxyz"><img src="https://img.shields.io/badge/status-back--end-red"></a>
 
 ## Thanks To
 
