@@ -1,5 +1,5 @@
 <p align="center"><a href="http://virius.eu.org" target="_blank"><img src="https://i.ibb.co/gt8XvvN/logo-viriustrade.png" width="200" height="180" alt="Virius Logo">
-<img src="https://icon-library.com/images/rest-icon/rest-icon-25.jpg" with="50" height="30" alt="rest-api">   
+<img src="https://icon-library.com/images/rest-icon/rest-icon-25.jpg" with="200" height="180" alt="rest-api">   
  </a></p>
 
 <p align="center">
