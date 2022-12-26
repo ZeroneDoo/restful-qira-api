@@ -1,9 +1,7 @@
 <p align="center"><a href="http://virius.eu.org" target="_blank">
     <img src="https://era86.github.io/assets/images/posts/api.png" with="200" height="180" alt="rest-api">   
-    <img src="https://i.ibb.co/gt8XvvN/logo-viriustrade.png" width="200" height="180" alt="Virius Logo">
-
- </a></p>
-
+    <img src="https://i.ibb.co/gt8XvvN/logo-viriustrade.png" width="200" height="180" alt="Virius Logo"> </a></p>
+<br>
 <p align="center">
 <a href="https://github.com/qiraxyz"><img src="https://img.shields.io/badge/made--by-qiraxyz-yellow"></a>
 <a href="https://github.com/qiraxyz/qira-api/blob/main/README.md"><img src="https://img.shields.io/badge/status-progress-brightgreen" alt="Progress"></a>
