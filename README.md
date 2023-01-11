@@ -9,17 +9,26 @@
 <a href="https://github.com/qiraxyz/qira-api/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License"></a>
 </p>
 
+
+## How to use
+
+**original link** : ```Https://qira.eu.org```
+
+```
+Http : http:qira.eu.org/api/pesan
+```
+
 ## About qira-api
 
 qira-api is consumable restful api for multi-function bot. Transfer Data to :
 
-- **Whatsapp Bot**
+- **node.js**
 
-- **Telegram Bot**
+- **Laravel**
 
-- **Template Data**
+- **other framework**
 
-- **FTP file**
+- **Public API**
 
 
 ## Thanks To
