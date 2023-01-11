@@ -12,10 +12,10 @@
 
 ## How to use
 
-**original link** : ```Https://qira.eu.org```
+**original link** : Https://qira.eu.org
 
 ```
-Http : http:qira.eu.org/api/pesan
+Http : http://qira.eu.org/api/pesan
 ```
 
 ## About qira-api
