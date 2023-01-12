@@ -28,7 +28,13 @@ qira-api is consumable restful api for multi-function bot. Transfer Data to :
 
 - **Laravel**
 
-- **other framework**
+- **CodeIgniter**
+
+- **Vue**
+
+- **Angular**
+
+- **React**
 
 - **Public API**
 
