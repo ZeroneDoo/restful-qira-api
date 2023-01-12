@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\helpers\ApiFormatter;
+use App\ApiFormat\ApiFormatter;
 use App\Models\Pesan;
 use Illuminate\Http\Request;
 
