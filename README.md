@@ -11,11 +11,6 @@
 
 
 ## How to use
-
-```
-Http : http://qira.eu.org/api/pesan
-```
-**Or**
 ```
 Http : http://localhost:8000/api/pesan
 ```
