@@ -12,7 +12,6 @@
 
 ## How to use
 
-**original link** : Https://qira.eu.org
 
 ```
 Http : http://qira.eu.org/api/pesan
